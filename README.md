@@ -1,4 +1,4 @@
-# first_app
+# Quiz_insight_app
 
 A new Flutter project.
 
